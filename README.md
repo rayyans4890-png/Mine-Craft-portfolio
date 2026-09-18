@@ -5,6 +5,8 @@ to fly a camera out of the void onto a floating End island, through a cozy
 house amid obsidian pillars and drifting endermen, past glowing project
 paintings and an about-me board — click them to open their panels.
 
+Link-https://rayyans-minecraft-portfolio.netlify.app/
+
 Built with **React Three Fiber**, **three.js**, and **Blender**.
 
 This project is an independent implementation of the experience taught in
@@ -15,15 +17,6 @@ This project is an independent implementation of the experience taught in
 code in `src/` was written from scratch for this build; the 3D assets,
 audio, fonts and the original `.blend` file are his (and their credited
 creators'), used under his MIT license with gratitude.
-
-## Run it
-
-```
-npm install
-npm run dev
-```
-
-Then open the local URL Vite prints (e.g. http://localhost:5173).
 
 **How to explore:** wait for the loading bar (the void parts like a curtain) →
 click **Enter World** (this unlocks audio) → scroll or drag up/down to fly the
